@@ -1,0 +1,254 @@
+[
+  {
+      "nome": "Anel Prístino",
+      "descricao": "Obteve todas as conquistas",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Lorde Prístino",
+      "descricao": "Conquistou o final 'Lorde Prístino'",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Era das Estrelas",
+      "descricao": "Conquistou o final 'Era das Estrelas'",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Lorde da Chama Frenética",
+      "descricao": "Conquistou o final 'Lorde da Chama Frenética'",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Portador de Fragmento, Godrick",
+      "descricao": "Derrotou o portador de fragmento, Godrick",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Portador de Fragmento, Radahn",
+      "descricao": "Derrotou o portador de fragmento, Radahn",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Portador de Fragmento, Morgott",
+      "descricao": "Derrotou o portador de fragmento, Morgott",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Portador de Fragmento, Rykard",
+      "descricao": "Derrotou o portador de fragmento, Rykard",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Portadora de Fragmento, Malenia",
+      "descricao": "Derrotou a portadora de fragmento, Malenia",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Portador de Fragmento, Mohg",
+      "descricao": "Derrotou o portador de fragmento, Mohg",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Maliketh, a Lâmina Negra",
+      "descricao": "Derrotou Maliketh, a Lâmina Negra",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Hoarah Loux, o Guerreiro",
+      "descricao": "Derrotou Hoarah Loux, o Guerreiro",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Placidusax, o Lorde Dragão",
+      "descricao": "Derrotou Placidusax, o Lorde Dragão",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Arma Matadora de Deuses",
+      "descricao": "Melhorou qualquer arma ao nível máximo",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Armas Lendárias",
+      "descricao": "Obteve todas as armas lendárias",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Cinzas Lendárias",
+      "descricao": "Obteve todas as cinzas lendárias",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Feitiços e Encantos Lendários",
+      "descricao": "Obteve todos os feitiços e encantos lendários",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Talismãs Lendários",
+      "descricao": "Obteve todos os talismãs lendários",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Rennala, Rainha da Lua Cheia",
+      "descricao": "Derrotou Rennala, Rainha da Lua Cheia",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Fortissax, o Dragão Lich",
+      "descricao": "Derrotou Fortissax, o Dragão Lich",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Dupla da Pele Divina",
+      "descricao": "Derrotou a Dupla da Pele Divina",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Gigante de Fogo",
+      "descricao": "Derrotou o Gigante de Fogo",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Soldado Draconiano de Nokstella",
+      "descricao": "Derrotou o Soldado Draconiano de Nokstella",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Espírito Ancestral Nobre",
+      "descricao": "Derrotou o Espírito Ancestral Nobre",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Gárgulas Valentes",
+      "descricao": "Derrotou as Gárgulas Valentes",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Margit, o Agouro Caído",
+      "descricao": "Derrotou Margit, o Agouro Caído",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Lobo Vermelho de Radagon",
+      "descricao": "Derrotou o Lobo Vermelho de Radagon",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Nobre da Pele Divina",
+      "descricao": "Derrotou o Nobre da Pele Divina",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Wyrm de Magma de Makar",
+      "descricao": "Derrotou o Wyrm de Magma de Makar",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Godfrey, o Primeiro Lorde Prístino",
+      "descricao": "Derrotou Godfrey, o Primeiro Lorde Prístino",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Mohg, o Agouro",
+      "descricao": "Derrotou Mohg, o Agouro",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Lágrima Imitadora",
+      "descricao": "Derrotou a Lágrima Imitadora",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Loretta, Cavaleira da Árvore Sacra",
+      "descricao": "Derrotou Loretta, Cavaleira da Árvore Sacra",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Astel, Filho Natural da Escuridão",
+      "descricao": "Derrotou Astel, Filho Natural da Escuridão",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Bastardo Leonino",
+      "descricao": "Derrotou o Bastardo Leonino",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Loretta, Cavaleira Real",
+      "descricao": "Derrotou Loretta, Cavaleira Real",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Elemer dos Espinhos",
+      "descricao": "Derrotou Elemer dos Espinhos",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Espírito Ancestral",
+      "descricao": "Derrotou o Espírito Ancestral",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Comandante Niall",
+      "descricao": "Derrotou o Comandante Niall",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Mesa-Redonda",
+      "descricao": "Chegou à Mesa-Redonda",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Grande Runa",
+      "descricao": "Restaurou o poder de uma Grande Runa",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  },
+  {
+      "nome": "Térvore em Chamas",
+      "descricao": "Usou acendalha para atear fogo à Térvore",
+      "detalhes": "",
+      "imagem": "./Styles/elden.webp"
+  }
+]

@@ -1,0 +1,218 @@
+[
+    {
+      "nome": "A Alma Negra",
+      "descricao": "Complete todas as conquistas.",
+      "detalhes": ""
+    },
+    {
+      "nome": "Acender a Primeira Chama",
+      "descricao": "Alcance o final 'Acender a Primeira Chama'.",
+      "detalhes": "Siga a trama principal até o fim e escolha a opção de 'Acender a Primeira Chama' quando a oportunidade surgir."
+    },
+    {
+      "nome": "O Fim do Fogo",
+      "descricao": "Chegue ao final de 'O Fim do Fogo'.",
+      "detalhes": "Siga a trama principal até o fim e escolha a opção de 'O Fim do Fogo' em vez de 'Acender a Primeira Chama'."
+    },
+    {
+      "nome": "A Usurpação do Fogo",
+      "descricao": "Chegue ao final de 'A Usurpação do Fogo'.",
+      "detalhes": "Siga a trama principal, avance na missão da personagem Anri de Astora e tome a decisão adequada para obter esse final específico."
+    },
+    {
+      "nome": "Lordes das Cinzas: Vigilantes do Abismo",
+      "descricao": "Derrote os Vigilantes do Abismo, Lordes das Cinzas.",
+      "detalhes": "Os Vigilantes do Abismo são um dos Lordes das Cinzas, chefes obrigatórios para progredir na história. Enfrente-os no Abismo dos Vigilantes."
+    },
+    {
+      "nome": "Lorde das Cinzas: Yhorm, o Gigante",
+      "descricao": "Derrote Yhorm, o Gigante, Lorde das Cinzas.",
+      "detalhes": "Yhorm é outro Lorde das Cinzas e um dos chefes obrigatórios. Enfrente-o na Catedral Profanada após obter a Grande Machado de Yhorm."
+    },
+    {
+      "nome": "Lorde das Cinzas: Aldrich, o Devorador de Deuses",
+      "descricao": "Derrote Aldrich, o Devorador de Deuses, Lorde das Cinzas.",
+      "detalhes": "Aldrich é mais um dos Lordes das Cinzas e um chefe essencial. Enfrente-o na Catedral de Anor Londo após derrotar o Pontífice Sulyvahn."
+    },
+    {
+      "nome": "Lorde das Cinzas: Lothric, Príncipe Mais Jovem",
+      "descricao": "Derrote Lothric, Príncipe Mais Jovem, Lorde das Cinzas.",
+      "detalhes": "Lothric é o último Lorde das Cinzas e um dos chefes finais. Enfrente-o no Castelo de Lothric após coletar as Cinzas de Lothric."
+    },
+    {
+      "nome": "Reforço de Arma Suprema",
+      "descricao": "Reforce qualquer arma ao nível máximo.",
+      "detalhes": "Use as Brasas para fortalecer qualquer arma até o nível máximo +10. Você pode encontrar Brasa de Titanita para melhorar as armas conforme avança no jogo."
+    },
+    {
+      "nome": "Mestre da Infusão",
+      "descricao": "Execute todas as formas de infusão.",
+      "detalhes": "Aprenda todas as infusões disponíveis no Ferreiro Andre para desbloquear essa conquista. Experimente infundir diferentes gemas em suas armas para descobrir todas as opções."
+    },
+    {
+      "nome": "Mestre dos Feitiços",
+      "descricao": "Adquira todos os feitiços.",
+      "detalhes": "Colete todos os feitiços do jogo, comprando-os de NPCs ou encontrando-os em locais secretos. Alguns feitiços só podem ser obtidos por meio de pactos com certos NPCs."
+    },
+    {
+      "nome": "Mestre das Piromancias",
+      "descricao": "Adquira todas as piromancias.",
+      "detalhes": "Encontre e compre todas as piromancias disponíveis no jogo. Alguns NPCs específicos podem ensinar piromancias únicas."
+    },
+    {
+      "nome": "Mestre dos Milagres",
+      "descricao": "Adquira todos os milagres.",
+      "detalhes": "Encontre e compre todos os milagres disponíveis no jogo. Interaja com certos NPCs e explore áreas secretas para desbloquear todos eles."
+    },
+    {
+      "nome": "Mestre dos Anéis",
+      "descricao": "Adquira todos os anéis.",
+      "detalhes": "Colete todos os anéis especiais e únicos espalhados por Dark Souls III. Alguns anéis só podem ser obtidos em certos momentos da história ou por meio de ações específicas."
+    },
+    {
+      "nome": "Mestre da Expressão",
+      "descricao": "Aprenda todos os gestos.",
+      "detalhes": "Encontre e aprenda todos os gestos disponíveis no jogo. Interaja com determinados NPCs, descubra segredos e cumpra certos requisitos para desbloqueá-los."
+    },
+    {
+      "nome": "Fogueira Definitiva",
+      "descricao": "Reforce uma fogueira ao nível máximo.",
+      "detalhes": "Use Estus de brasas para fortalecer uma fogueira até o nível máximo +10. Essa melhoria permitirá que você restaure mais saúde e Estus quando descansar nessa fogueira."
+    },
+    {
+      "nome": "Estus Definitivo",
+      "descricao": "Reforce o Frasco de Estus ao nível máximo.",
+      "detalhes": "Encontre e use Frasco de Estus de brasas para fortalecer seu Frasco de Estus até o nível máximo +10. Isso aumentará a quantidade de saúde restaurada por uso."
+    },
+    {
+      "nome": "Pacto: Guerreiro da Luz Solar",
+      "descricao": "Descubra o pacto do Guerreiro da Luz Solar.",
+      "detalhes": "Junte-se ao pacto dos Guerreiros da Luz Solar interagindo com o Grande Solaire de Astora no local da primeira luta contra o Vordt do Vale Boreal."
+    },
+    {
+      "nome": "Pacto: Caminho Azul",
+      "descricao": "Descubra o pacto do Caminho Azul.",
+      "detalhes": "Junte-se ao pacto do Caminho Azul interagindo com o Cavaleiro Azul Horace em Farron Perdido, depois de derrotá-lo."
+    },
+    {
+      "nome": "Pacto: Sentinelas Azuis",
+      "descricao": "Descubra o pacto dos Sentinelas Azuis.",
+      "detalhes": "Junte-se ao pacto dos Sentinelas Azuis interagindo com a Capitã Emma em Farron Perdido, após derrotar o Vordt do Vale Boreal."
+    },
+    {
+      "nome": "Pacto: Lâmina da Lua Negra",
+      "descricao": "Descubra o pacto da Lâmina da Lua Negra.",
+      "detalhes": "Junte-se ao pacto da Lâmina da Lua Negra interagindo com Yuria de Londor em Farron Perdido."
+    },
+    {
+      "nome": "Pacto: os Dedos de Rosaria",
+      "descricao": "Descubra o pacto dos Dedos de Rosaria.",
+      "detalhes": "Junte-se ao pacto dos Dedos de Rosaria interagindo com Rosaria em sua Catedral. Suba de classificação no pacto invadindo outros jogadores como um Dedo de Rosaria."
+    },
+    {
+      "nome": "Pacto: Criadores de Montes",
+      "descricao": "Descubra o pacto dos Criadores de Montes.",
+      "detalhes": "Junte-se ao pacto dos Criadores de Montes interagindo com o Grande Sapador de Undead Settlement após obter o item insígnia dos Criadores de Montes. Suba de classificação no pacto invadindo jogadores em áreas com montes de cadáveres."
+    },
+    {
+      "nome": "Pacto: Vigilantes de Farron",
+      "descricao": "Descubra o pacto dos Vigilantes de Farron.",
+      "detalhes": "Junte-se ao pacto dos Vigilantes de Farron interagindo com o Vigia de Farron próximo à Fogueira Farron Perdido. Aumente sua classificação no pacto derrotando invasores vermelhos em defesa do Pântano de Farron."
+    },
+    {
+      "nome": "Pacto: Devoto de Aldrich",
+      "descricao": "Descubra o pacto do Devoto de Aldrich.",
+      "detalhes": "Junte-se ao pacto do Devoto de Aldrich interagindo com o Devoto de Aldrich perto da Catedral de Anor Londo. Aumente sua classificação no pacto invadindo jogadores que representam ameaças a Aldrich, o Devorador de Deuses."
+    },
+    {
+      "nome": "Túmulos Abandonados",
+      "descricao": "Chegue aos Túmulos Abandonados.",
+      "detalhes": "Os Túmulos Abandonados são uma área opcional, acessível após derrotar o Sábio de Cristal e falar com o NPC Anri de Astora em sua localização inicial. Explore bem para encontrá-la."
+    },
+    {
+      "nome": "Pico do Arquidragão",
+      "descricao": "Chegue ao Pico do Arquidragão.",
+      "detalhes": "O Pico do Arquidragão é uma área opcional, acessível após derrotar o Rei de Pedra e tocar o sino no Grande Salão de Yhorm. Explore o Profundo Vale e encontre o caminho para o pico."
+    },
+    {
+      "nome": "Iudex Gundyr",
+      "descricao": "Derrote Iudex Gundyr.",
+      "detalhes": "Iudex Gundyr é o primeiro chefe do jogo e pode ser encontrado no Cemitério dos Cinzas. Estude seus padrões de ataque e fique atento aos seus movimentos para vencer."
+    },
+    {
+      "nome": "Vordt do Vale Boreal",
+      "descricao": "Derrote Vordt do Vale Boreal.",
+      "detalhes": "Vordt é o segundo chefe do jogo e pode ser encontrado no Vale Boreal. Seja ágil para esquivar-se de seus ataques e aproveite as oportunidades para contra-atacar."
+    },
+    {
+      "nome": "Grande Madeira Apodrecida",
+      "descricao": "Derrote a Grande Madeira Apodrecida.",
+      "detalhes": "A Grande Madeira Apodrecida é o terceiro chefe do jogo e pode ser encontrado no Grande Salão de Yhorm. Foque nos pontos fracos do chefe para causar mais dano."
+    },
+    {
+      "nome": "Sábio de Cristal",
+      "descricao": "Derrote o Sábio de Cristal.",
+      "detalhes": "O Sábio de Cristal é um dos Chefes das Cinzas e pode ser encontrado nos Jardins do Despertar. Seja cauteloso e ataque em janelas seguras para evitar danos."
+    },
+    {
+      "nome": "Diáconos das Profundezas",
+      "descricao": "Derrote os Diáconos das Profundezas.",
+      "detalhes": "Os Diáconos das Profundezas são outro grupo de Chefes das Cinzas encontrados na Catedral das Profundezas. Preste atenção nos inimigos menores que os cercam e elimine-os para facilitar o combate."
+    },
+    {
+      "nome": "Alto Lorde Wolnir",
+      "descricao": "Derrote o Alto Lorde Wolnir.",
+      "detalhes": "Alto Lorde Wolnir é um dos Chefes das Cinzas e pode ser encontrado no Covil de Wolnir. Foque nos braceletes para derrotá-lo mais facilmente."
+    },
+    {
+      "nome": "Pontífice Sulyvahn",
+      "descricao": "Derrote o Pontífice Sulyvahn.",
+      "detalhes": "O Pontífice Sulyvahn é um dos Chefes das Cinzas e pode ser encontrado em Irithyll do Vale Boreal. Esteja preparado para um combate rápido e agressivo."
+    },
+    {
+      "nome": "Dançarino do Vale Boreal",
+      "descricao": "Derrote o Dançarino do Vale Boreal.",
+      "detalhes": "O Dançarino do Vale Boreal é um dos Chefes das Cinzas e pode ser encontrado em Irithyll do Vale Boreal. Esteja preparado para um combate desafiador."
+    },
+    {
+      "nome": "Armadura do Matador de Dragões",
+      "descricao": "Derrote a Armadura do Matador de Dragões.",
+      "detalhes": "A Armadura do Matador de Dragões é um dos Chefes das Cinzas e pode ser encontrada na Planície Irithyll. Estude seus padrões de ataque para ter sucesso."
+    },
+    {
+      "nome": "Antigo Rei Demônio",
+      "descricao": "Derrote o Antigo Rei Demônio.",
+      "detalhes": "O Antigo Rei Demônio é um dos Chefes das Cinzas e pode ser encontrado em Profundezas do Pântano. Esteja preparado para uma luta contra um inimigo poderoso."
+    },
+    {
+      "nome": "Oceiros, o Rei Decaído",
+      "descricao": "Derrote Oceiros, o Rei Decaído.",
+      "detalhes": "Oceiros, o Rei Decaído, é um dos Chefes das Cinzas e pode ser encontrado na Biblioteca do Jardim. Seja cauteloso e evite seus ataques devastadores."
+    },
+    {
+      "nome": "Campeão Gundyr",
+      "descricao": "Derrote o Campeão Gundyr.",
+      "detalhes": "Campeão Gundyr é uma versão mais poderosa de Iudex Gundyr e pode ser encontrada no Santuário do laço de fogo, no Pico do Arquidragão. Esteja preparado para um combate desafiador."
+    },
+    {
+      "nome": "Wyvern Ancião",
+      "descricao": "Derrote o Wyvern Ancião.",
+      "detalhes": "O Wyvern Ancião é um inimigo opcional encontrado na área do Pico do Arquidragão. Utilize táticas inteligentes e busque suas fraquezas para derrotá-lo."
+    },
+    {
+      "nome": "O Rei Sem Nome",
+      "descricao": "Derrote o Rei Sem Nome.",
+      "detalhes": "O Rei Sem Nome é um dos Chefes das Cinzas e pode ser encontrado no grande salão do Castelo de Lothric. Prepare-se para uma batalha desafiadora."
+    },
+    {
+      "nome": "Acendendo",
+      "descricao": "Acenda uma fogueira pela primeira vez.",
+      "detalhes": "Para acender uma fogueira, interaja com uma fogueira primordial em qualquer área do jogo. Essa conquista será desbloqueada assim que você acender sua primeira fogueira."
+    },
+    {
+      "nome": "Abrace a Chama",
+      "descricao": "Torne-se um Hospedeiro das Brasas pela primeira vez.",
+      "detalhes": "Para se tornar um Hospedeiro das Brasas, use um item de Invocação ou seja invadido por um jogador hostil. Essa conquista será desbloqueada quando você passar por essa experiência pela primeira vez."
+    }
+  ]
+  

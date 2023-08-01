@@ -1,0 +1,195 @@
+
+     [
+      {
+        "nome": "A Alma Escura",
+        "descricao": "Ganhe todas as conquistas",
+        "detalhes": "Esta é a conquista mestre, que exige que você obtenha todas as outras conquistas no jogo. Prepare-se para explorar meticulosamente, enfrentar inimigos desafiadores, dominar magias e cumprir várias tarefas para completar todas as conquistas individuais."
+      },
+      {
+        "nome": "Auto Reminiscência",
+        "descricao": "Recupere sua carne e comece como um morto-vivo",
+        "detalhes": "Logo no início do jogo, você terá a oportunidade de criar seu personagem. Escolha ser um morto-vivo e prossiga com sua jornada nas Terras de Drangleic."
+      },
+      {
+        "nome": "Anel do Rei",
+        "descricao": "Obtenha o anel do rei",
+        "detalhes": "Para conseguir o Anel do Rei, você precisa vencer todos os quatro Grandes Chefes do jogo (Velstadt, o Carrasco Real; Vendrick; o Último Gigante e o Rei de Ferro Velsdat). Após derrotá-los, adquira as quatro Almas Grandes e entregue-as a Ladle, a Princesa Víbora, em troca do Anel do Rei."
+      },
+      {
+        "nome": "Dragão Ancestral",
+        "descricao": "Obtenha o Coração da Neblina de Cinzas",
+        "detalhes": "Derrote o Dragão Antigo, Aldia, no final do caminho dos 5 Grandes Chefes. Encontre todas as quatro Primal Bonfires e enfrente o chefe final no Trono do Querente."
+      },
+      {
+        "nome": "Herdeiro",
+        "descricao": "Veja o fim do jogo",
+        "detalhes": "Complete o jogo, derrotando todos os principais chefes e alcançando o final da história."
+      },
+      {
+        "nome": "Último Gigante",
+        "descricao": "Derrote o Último Gigante",
+        "detalhes": "Enfrente e derrote o chefe Último Gigante na área inicial do jogo, no Forte dos Perdidos."
+      },
+      {
+        "nome": "Fogueira do Pecador",
+        "descricao": "Acenda a fogueira primordial em Elevação dos Pecadores",
+        "detalhes": "Explore cuidadosamente a área da Elevação dos Pecadores até encontrar a fogueira primordial. Acendê-la desbloqueia esta conquista."
+      },
+      {
+        "nome": "Fogueira da Masmorra de Ferro",
+        "descricao": "Acenda a fogueira primordial em Masmorra de Ferro",
+        "detalhes": "Encontre a fogueira primordial escondida na Masmorra de Ferro e acenda-a para obter a conquista."
+      },
+      {
+        "nome": "Fogueira da Ravina",
+        "descricao": "Acenda a fogueira primordial em Ravina Negra",
+        "detalhes": "Explore a Ravina Negra até encontrar a fogueira primordial oculta e acendê-la para desbloquear esta conquista."
+      },
+      {
+        "nome": "Fogueira da Pedra Luzente",
+        "descricao": "Acenda a fogueira primordial em Enseada Pedra Luzente Tseldora",
+        "detalhes": "Descubra a localização da fogueira primordial na Enseada Pedra Luzente Tseldora e acenda-a para completar a conquista."
+      },
+      {
+        "nome": "Cavaleiro do Espelho",
+        "descricao": "Derrote o Cavaleiro do Espelho",
+        "detalhes": "Encontre o Cavaleiro do Espelho em Drangleic Castle e derrote-o para obter esta conquista."
+      },
+      {
+        "nome": "Vendrick",
+        "descricao": "Derrote Vendrick",
+        "detalhes": "Enfrente o rei Vendrick no Undead Crypt. Tenha cuidado, pois ele é um inimigo formidável, mas suas defesas podem ser enfraquecidas se você tiver algumas Almas Grandes em seu inventário."
+      },
+      {
+        "nome": "Arma Suprema",
+        "descricao": "Reforce uma arma até o limite",
+        "detalhes": "Fortifique uma arma com Pedras de Titanita até atingir o nível +10 para obter esta conquista."
+      },
+      {
+        "nome": "Mestre dos Gestos",
+        "descricao": "Aprenda todos os gestos",
+        "detalhes": "Interaja com vários NPCs ao longo do jogo para aprender todos os gestos que eles têm para ensinar."
+      },
+      {
+        "nome": "Mestre de Magia",
+        "descricao": "Aprenda todas as magias",
+        "detalhes": "Encontre e compre todas as magias disponíveis no jogo. Procure por NPCs e locais secretos para obter todas elas."
+      },
+      {
+        "nome": "Mestre dos Milagres",
+        "descricao": "Aprenda todos os milagres",
+        "detalhes": "Assim como as magias, procure por NPCs e locais específicos para aprender todos os milagres disponíveis."
+      },
+      {
+        "nome": "Mestre da Chama Piromântica",
+        "descricao": "Aprenda todas as piromancias",
+        "detalhes": "Descubra e obtenha todas as piromancias disponíveis no jogo para completar esta conquista."
+      },
+      {
+        "nome": "Mestre dos Sortilégios",
+        "descricao": "Aprenda todos os sortilégios",
+        "detalhes": "Procure e adquira todos os sortilégios disponíveis em Dark Souls II para desbloquear esta conquista."
+      },
+      {
+        "nome": "Pacto Brilhante",
+        "descricao": "Descubra um pacto muito brilhante",
+        "detalhes": "Procure e junte-se a um pacto especial e exclusivo para alcançar essa conquista."
+      },
+      {
+        "nome": "Pacto de Protetor",
+        "descricao": "Descubra o pacto dos protetores",
+        "detalhes": "Encontre e junte-se ao Pacto dos Protetores para obter esta conquista."
+      },
+      {
+        "nome": "Pacto Sanguinário",
+        "descricao": "Descubra o pacto dos sanguinários",
+        "detalhes": "Encontre e junte-se ao Pacto dos Sanguinários para desbloquear esta conquista."
+      },
+      {
+        "nome": "Pacto dos Tímidos",
+        "descricao": "Descubra o pacto dos tímidos",
+        "detalhes": "Encontre e junte-se ao Pacto dos Tímidos para completar essa conquista."
+      },
+      {
+        "nome": "Pacto de Roer",
+        "descricao": "Descubra o pacto dos ratos",
+        "detalhes": "Encontre e junte-se ao Pacto dos Ratos para desbloquear essa conquista."
+      },
+      {
+        "nome": "Pacto Ressonante",
+        "descricao": "Descubra o pacto dos barulhentos",
+        "detalhes": "Encontre e junte-se ao Pacto dos Barulhentos para completar essa conquista."
+      },
+      {
+        "nome": "Pacto dos Antigos",
+        "descricao": "Descubra o pacto dos antigos",
+        "detalhes": "Encontre e junte-se ao Pacto dos Antigos para obter esta conquista."
+      },
+      {
+        "nome": "Pacto dos Mais Aptos",
+        "descricao": "Descubra o pacto dos mais aptos",
+        "detalhes": "Encontre e junte-se ao Pacto dos Mais Aptos para completar essa conquista."
+      },
+      {
+        "nome": "Pacto Abismal",
+        "descricao": "Descubra o pacto abismal",
+        "detalhes": "Encontre e junte-se ao Pacto Abismal para desbloquear essa conquista."
+      },
+      {
+        "nome": "Doadora Altruísta",
+        "descricao": "Maximize a devoção em um pacto",
+        "detalhes": "Aumente sua devoção a um pacto específico, coletando e oferecendo algumas almas específicas para alcançar a devoção máxima."
+      },
+      {
+        "nome": "Mapa Curioso",
+        "descricao": "Acenda todas as fogueiras no mapa em Majula",
+        "detalhes": "Explore a cidade de Majula para encontrar e acender todas as fogueiras escondidas no mapa."
+      },
+      {
+        "nome": "Troca de Roupa",
+        "descricao": "Entregue uma roupa para Rosabeth de Melfia usar",
+        "detalhes": "Dê uma roupa para Rosabeth de Melfia e veja ela vesti-la para desbloquear essa conquista."
+      },
+      {
+        "nome": "Reunião dos Exilados",
+        "descricao": "Aumente a população de Majula",
+        "detalhes": "Ao longo do jogo, resgate NPCs exilados e traga-os para Majula para aumentar a população da cidade."
+      },
+      {
+        "nome": "Espada Grande do Luar",
+        "descricao": "Herde o equipamento do Benhart de Jugo",
+        "detalhes": "Complete as três lutas com Benhart de Jugo e alcance os requisitos específicos para herdar seu equipamento."
+      },
+      {
+        "nome": "Detentor da Fortaleza",
+        "descricao": "Herde o equipamento do Capitão Drummond",
+        "detalhes": "Complete as lutas com o Capitão Drummond e alcance os requisitos específicos para herdar seu equipamento."
+      },
+      {
+        "nome": "Lucatiel",
+        "descricao": "Herde o equipamento do Lucatiel de Mirrah",
+        "detalhes": "Complete as lutas com Lucatiel de Mirrah e alcance os requisitos específicos para herdar seu equipamento."
+      },
+      {
+        "nome": "Ferreiro para a Vida",
+        "descricao": "Herde o equipamento do Pulso-Firme McDuff",
+        "detalhes": "Complete as lutas com Pulso-Firme McDuff e alcance os requisitos específicos para herdar seu equipamento."
+      },
+      {
+        "nome": "Gárrulo Miserável",
+        "descricao": "Herde o equipamento do Mestre de Escadas Gilligan",
+        "detalhes": "Complete as lutas com o Mestre de Escadas Gilligan e alcance os requisitos específicos para herdar seu equipamento."
+      },
+      {
+        "nome": "Reflexões na Descorporificação",
+        "descricao": "Herde o equipamento da cabeça de Vengarl",
+        "detalhes": "Complete as lutas com Vengarl e alcance os requisitos específicos para herdar seu equipamento."
+      },
+      {
+        "nome": "Este é Dark Souls",
+        "descricao": "Morra pela primeira vez",
+        "detalhes": "Essa conquista será desbloqueada naturalmente, pois é inevitável morrer durante o jogo. Simplesmente jogue o jogo e morra pela primeira vez."
+      }
+    ]
+
+  

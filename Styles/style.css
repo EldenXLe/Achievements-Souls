@@ -1,0 +1,153 @@
+.index_conq {
+    background-image: url('https://images8.alphacoders.com/490/490274.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0; 
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none; /* Remover sublinhado */
+    color: inherit; /* Usar a cor padrão do texto */
+  }
+  
+.lista_souls {
+    text-align: center;
+    font-size: 18px;
+}
+
+/* Definir altura para as caixas e centralizar*/
+.box_souls {
+    width: 25.5%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    margin: 10px; 
+    margin-left: 36%;
+    margin-bottom: 20px;
+}
+
+/* Centralizar o conteúdo dos botões */
+.box_souls button {
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(71, 29, 1));
+    border-radius: 30px 30px 30px 30px;
+    cursor: pointer;
+    transition: background-color 0.3s ease
+}
+
+.box_souls button:hover{
+    transform: scale(1.1);
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(122, 54, 8),rgb(201, 84, 6));
+}
+
+h3{
+    font-size: 19px;
+    font-weight: bold;
+    -webkit-text-stroke: 0.5px orangered;
+    color: white
+}
+
+p{
+    font-size: 18px;
+    font-weight: bold;
+    -webkit-text-stroke: 0.5px rgb(255, 94, 0);
+    color: white
+}
+
+/* ^^ index ^^ */
+
+.ds_conq{
+    background-image: linear-gradient(to bottom, rgb(15, 15, 15), #161515);
+}
+
+.titulo_ds{
+    font-size: 35px;
+    font-weight: bold;
+    -webkit-text-stroke: 0.5px orangered;
+    background-color: black; 
+    color: white; 
+    padding: 20px; 
+    display: block; 
+    margin: 0px;
+    margin-bottom: 10px;
+    
+}
+
+.ds_nconq{
+    color: orangered;
+    font-size: 23px;
+    font-style: italic ;
+    margin-top: 10px;
+}
+
+.ds_dconq{
+    font-weight: bold;
+    font-size: 18px;
+    font-style: italic;
+    color: orangered;
+}
+
+.ds_dtconq{
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: rgb(253, 253, 253);
+}
+
+
+.ds_conquista,.elden_conquista {
+    position: relative;
+    border: 3px solid #faf5f1;
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(85, 36, 7), rgb(119, 48, 8));
+    text-align: left; 
+    box-shadow: 0 0 5px rgba(190, 86, 1, 0.993);
+}
+
+.imag {
+    width: 100px; /* Defina o tamanho desejado para a largura */
+    height: auto; /* A altura será ajustada automaticamente para manter a proporção da imagem */
+    display: block; /* Isso garante que a imagem seja um elemento de bloco para permitir ajuste de tamanho */
+    margin: 0; /* Centraliza horizontalmente a imagem dentro do contêiner */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0.8;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 3%;
+}
+
+.assi{
+    text-align: right;
+    margin-right: 2%;
+    text-shadow: 2px 2px #000000;
+}
+
+.bonfire {
+    width: 13%;
+}
+
+.bonfire-link{
+    display: inline-block;
+  position: absolute;
+  top: 1%;
+  left: 2%;
+}
+  
+
+
+  

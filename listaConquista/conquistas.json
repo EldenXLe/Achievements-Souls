@@ -1,0 +1,209 @@
+[
+  {
+    "nome": "Enkindle",
+    "descricao": "Acenda uma fogueira.",
+    "detalhes": ""
+  },
+  {
+    "nome": "Estus Flask",
+    "descricao": "Adquira o Frasco de Estus.",
+    "detalhes": "Em Asilo dos Mortos-vivos, após subir uma escada que irá ter uma armadilha que quebrará a parede onde um cavaleiro estará, depois de falar com ele será desbloqueado o Frasco de Estus."
+  },
+  {
+    "nome": "Reach Lordran",
+    "descricao": "Chegue a Lordran.",
+    "detalhes": "Quando você derrotar o chefe do 'tutorial' e chegar perto da ponta do mapa o grande pássaro vai levá-lo a Lordran."
+  },
+  {
+    "nome": "Ring the Bell (Undead Church)",
+    "descricao": "Toque o Sino do Despertar em Undead Church (Igreja dos Mortos-Vivos).",
+    "detalhes": "Em Lordran, você terá o objetivo de encontrar e tocar os sinos existentes no mundo. Um está localizado no topo da Igreja dos Mortos-Vivos na Paróquia de Mortos-Vivos"
+  },
+  {
+    "nome": "Ring the Bell (Quelaag's Domain)",
+    "descricao": "Toque o Sino do Despertar no Domínio de Quelaag.",
+    "detalhes": "O segundo sino está nas profundezas de Blighttown dentro do Domínio da Queelag que vai estar perto de alguns inimigos, vença o chefe e finalmente toque o segundo sino."
+  },
+  {
+    "nome": "Art of Abysswalking",
+    "descricao": "Adquira a Arte de Trilhar o Abismo.",
+    "detalhes": "Você terá que vencer o chefe Grande Lobo Cinza que está localizado no final da área da floresta, que você encontrará seguindo o caminho em frente ao ferreiro na Paróquia dos Mortos-vivos, no caminho tem uma porta fechada, compre a chave no ferreiro por 20.000 almas"
+  },
+  {
+    "nome": "Rite of Kindling",
+    "descricao": "Adquira o Rito de Acendimento.",
+    "detalhes": "Perto do santuário Firelink, na area do cemitério. À direita deste cemitério, perto do penhasco, há uma escada que leva as Catacumbas, e seguindo mais a frente, o Túmulo dos Gigantes. Para adquirir o Rite of Kindling, você terá que vencer o chefe Pinwheel que está localizado no final das Catacumbas"
+  },
+  {
+    "nome": "Reach Anor Londo",
+    "descricao": "Chegue em Anor Londo.",
+    "detalhes": "Depois de tocar ambos os sinos, você verá um cutscene onde as grandes portas ao lado do Ferreiro da Paróquia dos Mortos-vivos serão abertas, permitindo a entrada na Fortaleza do Sen. Você enfrentará o chefe Golem Iron. Depois de derrotá-lo, você verá um anel laranja, interaja com o anel."
+  },
+  {
+    "nome": "Lordvessel",
+    "descricao": "Adquira o Vaso do Lorde.",
+    "detalhes": "Adquirindo o Lordvessel é o seu principal objetivo no jogo depois de ter tocado os dois sinos, depois de derrotar os dois chefes Ornstein e Smough em Anor Londo, você alcançará uma grande sala com Gwynevere, que lhe dará o Lordvessel."
+  },
+  {
+    "nome": "To Link the Fire",
+    "descricao": "Alcance o Final 'Para Vincular do Fogo'.",
+    "detalhes": "Depois de conseguir o Lordvessel, você pode falar com Frampt, a serpente no Santuário de Firelink ou continuar com ele até enfrentar os Four Kings para o Darkstalker Kaathe aparecer, depois de colocar o lordvessel no novo local você tem que preenchê-lo com as almas dos quatro principais chefes, pra pode chegar ao chefe final."
+  },
+  {
+    "nome": "Dark Lord",
+    "descricao": "Alcance o Final 'O Lorde das Trevas'.",
+    "detalhes": "depois de vencer o chefe volte pelo mesmo caminho que você chegou ao invés de acender a fogueira."
+  },
+  {
+    "nome": "Defeat Gravelord Nito",
+    "descricao": "Derrote o Lorde da Alma Gravelord Nito.",
+    "detalhes": "Nito está localizado no fundo da área do Túmulo dos Gigantes, passando pelas Catacumbas, a área é quase inteiramente escura, cheia de inimigos gigantes e muito fortes. A passagem que leva até Nito só é acessível depois de adquirir o Lordvessel"
+  },
+  {
+    "nome": "Defeat the Four Kings",
+    "descricao": "Derrote os Quatro Reis, herdeiros das almas.",
+    "detalhes": "Os Quatro Reis estão localizados no fundo das Ruínas do New Londo, no Abismo, mas para chegar lá, você precisará primeiro baixar a água da área e também ter equipado o anel Covenant of Artorias (Veja a conquista 'Art of Abysswalking'). O Abismo está localizado saltando dentro de um buraco profundo na área e o anel evita que você morra instantaneamente. Para baixar a água de toda a área e abrir o caminho para a entrada do Abismo, você terá que abrir as enormes comportas que conecta New Londo ao Valley of Drakes, mas o portão para a alavanca que abre as grandes comportas está trancado e o único NPC da área, Ingward, é quem tem a chave. Para chegar a ele, você terá que atravessar as pontes estreitas e os edifícios cheios de fantasmas para chegar ao telhado do maior construção onde você o encontrará. Se você falar com ele depois de adquirir o Urna do Lorde, ele lhe dará a chave ou se você quiser a chave antes é só matando ele."
+  },
+  {
+    "nome": "Defeat Seath the Scaleless",
+    "descricao": "Derrote Seath o Sem Escamas, herdeiros das almas.",
+    "detalhes": "Uma vez que você adquira o Lordvessel, Para chegar a Seath, você terá que percorrer os Arquivos do duque e depois através da Caverna de Cristal. Da fogueira principal de Anor Londo, vire à esquerda e depois de passar por alguns inimigos, você alcançará uma inclinação com uma porta de neblina que levará ao Arquivo. Esta é uma das portas de neblina que só abrirá depois de adquirir o Lordvessel."
+  },
+  {
+    "nome": "Defeat Bed of Chaos",
+    "descricao": "Derrote a Alma Lord Bed of Chaos.",
+    "detalhes": "Uma vez que você adquira o Lordvessel, Bed of Chaos está localizado nas profundezas de Lordran na área de Lost Izalith,  mas para entrar em Lost Izalith, Atravessando as ruínas de Demon, você primeiro terá que enfrentar o chefe Invasão de descarga e, quando chegar ao final da área com a porta de neblina à frente, você terá duas maneiras de alcançar o chefe da Bed of Chaos. Você pode ir direto através das portas de neblina e derrotar primeiro o chefe Demon Firesage e depois o Demônio Centipede para entrar em Lost Izalith através da entrada principal cheia de lava. Ou, se você é parte da aliança do Servo do Caos, com classificação +2 nele, o que lhe permitirá abrir a porta de pedra no final do corredor à sua direita, antes da porta de neblina para Demon Firesage. Fazer isso também o colocará quase na porta da névoa Bed of Chaos em Lost Izalith."
+  },
+  {
+    "nome": "Defeat Crossbreed Priscilla",
+    "descricao": "Derrota o Híbrido Priscilla, the Lifehunter",
+    "detalhes": "A medida que você progride através de Anor Londo, você chegará a um prédio grande que abriga uma pintura muito grande em uma das suas paredes internas, guardada por um monte de inimigos que usam vestes brancas. Esta pintura é realmente a entrada para uma das áreas opcionais do jogo, o Painted World Of Ariamis (Mundo Pintado de Ariamis). No entanto, para entrar na pintura e ser transportado para esta área secreta, você precisará de um item especial. É a Peculiar Doll (Boneca Peculiar) que é adquirida ao retornar à própria cela em que você iniciou o jogo no Asilo dos Mortos-vivos depois que você chegou a Lordran. Depois de chegar ao Painted World Of Ariamis, você ficará preso lá até chegar ao final da área, onde você também encontrará o chefe Crossbreed Priscilla. Ao contrário de outros chefes, ela não ataca você à vista e só vai lutar contra você se você a atacar primeiro. Se você acabou de passar por ela, pode chegar à saída da área e retornar a Anor Londo, mas você não conseguirá a conquista por vencer ela, obviamente. (Lembre-se de cortar a cauda dela pra conseguir a arma Priscilla's Dagger que faz parte da conquista Knight's Honor)"
+  },
+  {
+    "nome": "Defeat the Dark Sun Gwyndolin",
+    "descricao": "Derrote o Sol Escuro Gwyndolin, o Deus Escuro.",
+    "detalhes": "Gwyndolin é um dos chefes opcionais do jogo e pode ser alcançado baixando a torre giratória em Anor Londo e depois descendo as escadas. Você alcançará um quarto com uma fogueira e uma grande estátua à frente, a sala do chefe (e o acesso ao Pacto Blade of Darkmoon) está por trás dessa estátua, no entanto, para superar isso, você precisará equipar um anel chamado Darkmoon Seance Ring que pode ser encontrado dentro das Catacumbas."
+  },
+  {
+    "nome": "Covenant: Way of White",
+    "descricao": "Descubra o Pacto da Aliança Branca.",
+    "detalhes": "Esse é o mais fácil de se juntar, após chegar em Lordran no Santuário Firelink, basta ir para a esquerda e você verá Petrus de Thorolund, converse com ele até o mesmo lhe convidar para o pacto."
+  },
+  {
+    "nome": "Covenant: Warrior of Sunlight",
+    "descricao": "Descubra o Pacto do Guerreiro da Luz do Sol.",
+    "detalhes": "Rezar no Altar da Luz do Sol (a opção de interação no pedaço da estátua só fica disponível depois de cumprir o requisito), localizado ao lado da fogueira abaixo do Hellkite Dragon ('Dragão' Vermelho) em Undead Parish (Paróquia dos Mortos-Vivos)."
+  },
+  {
+    "nome": "Covenant: Forest Hunter",
+    "descricao": "Descubra o Pacto do Caçador de Floresta.",
+    "detalhes": "Logo após a porta selada em Darkroot Garden (Jardim Tenebroso), siga reto até encontrar um edifício semi-destruído. Logo que entra na janela esquerda, você encontrará Alvina, um grande gato cinza. Fale com ela até lhe oferecer para se juntar ao pacto (responda sim para todas as perguntas). Você pode comprar o selo para destravar a porta com o ferreiro por 20.000 almas; outra forma de chegar é indo por Darkroot Basin, tem uma escada perto da Hidra."
+  },
+  {
+    "nome": "Covenant: Chaos Servant",
+    "descricao": "Descubra o Pacto do Servo do Caos.",
+    "detalhes": "Após derrotar Queelag e de tocar o segundo sino, desça as escadas e em um dos lados da sala, haverá um corredor escondido por uma parede falsa (bata ou role na parede para abri-la). Fale com o NPC Eingyi que está bloqueando o caminho e responda 'Sim' à pergunta para ele sair do caminho, depois fale com a Irmã de Quelaag, Daughter of Chaos (Filha do Caos) e se junte ao pacto."
+  },
+  {
+    "nome": "Covenant: Path of the Dragon",
+    "descricao": "Descubra o Pacto do Caminho do Dragão.",
+    "detalhes": "Você deve ir para Ash Lake, um local oculto e opcional."
+  },
+  {
+    "nome": "Covenant: Gravelord Servant",
+    "descricao": "Descubra o Pacto do Servo do Gravelord.",
+    "detalhes": "Você só pode entrar e subir de nível nesse pacto antes de derrotar Gravelord Nito."
+  },
+  {
+    "nome": "Covenant: Blade of the Darkmoon",
+    "descricao": "Descubra o Pacto da Lâmina da Lua Negra.",
+    "detalhes": "Antes de acessar o pacto, o jogador deve ser capaz de remover uma estátua ilusória de Lord Gwyn que bloqueia o caminho para Gwyndolin."
+  },
+  {
+    "nome": "Covenant: Princess's Guard",
+    "descricao": "Descubra o Pacto do Guarda da Princesa.",
+    "detalhes": "Em Anor Londo, depois de derrotar os dois chefes Ornstein e Smough, vá para a fogueira acima da sala dos chefes atrás das portas fechadas e fale com Gwynevere. Fale com ela até oferecer-lhe para se juntar ao pacto."
+  },
+  {
+    "nome": "Covenant: Darkwraith",
+    "descricao": "Descubra o Pacto Darkwraith.",
+    "detalhes": "Lordvessel não é necessário, mas se colocado no altar antes de matar os Four Kings (independentemente de falar com Kingseeker Frampt em Firelink), o pacto Darkwraith ficará indisponível. Para se juntar, fale com a serpente Kaathe que fica na arena do chefe. Veja como chegar ao local na conquista Defeat the Four Kings na parte Defeat Boss."
+  },
+  {
+    "nome": "Wisdom of a Sage",
+    "descricao": "Adquira Todas as Magias.",
+    "detalhes": ""
+  },
+  {
+    "nome": "Bond of a Pyromancer",
+    "descricao": "Adquira Todas as Piromancias.",
+    "detalhes": ""
+  },
+  {
+    "nome": "Prayer of a Maiden",
+    "descricao": "Adquira Todos os Milagres.",
+    "detalhes": ""
+  },
+  {
+    "nome": "Strongest Weapon",
+    "descricao": "Adquira a melhor arma através do reforço padrão.",
+    "detalhes": ""
+  },
+  {
+    "nome": "Crystal Weapon",
+    "descricao": "Adquira a melhor arma através do reforço de cristal.",
+    "detalhes": ""
+  },
+  {
+    "nome": "Lightning Weapon",
+    "descricao": "Adquira a melhor arma através do reforço de relâmpago.",
+    "detalhes": ""
+  },
+  {
+    "nome": "Raw Weapon",
+    "descricao": "Adquira a melhor arma através do reforço bruto.",
+    "detalhes": ""
+  },
+  {
+    "nome": "Magic Weapon",
+    "descricao": "Adquira a melhor arma através do reforço mágico.",
+    "detalhes": ""
+  },
+  {
+    "nome": "Enchanted Weapon",
+    "descricao": "Adquira a melhor arma através do reforço encantado.",
+    "detalhes": ""
+  },
+  {
+    "nome": "Divine Weapon",
+    "descricao": "Adquira a melhor arma através do reforço divino.",
+    "detalhes": ""
+  },
+  {
+    "nome": "Occult Weapon",
+    "descricao": "Adquira a melhor arma através do reforço oculto.",
+    "detalhes": ""
+  },
+  {
+    "nome": "Fire Weapon",
+    "descricao": "Adquira a melhor arma através do reforço de fogo.",
+    "detalhes": ""
+  },
+  {
+    "nome": "Chaos Weapon",
+    "descricao": "Adquira a melhor arma através do reforço do caos.",
+    "detalhes": ""
+  },
+  {
+    "nome": "Knight's Honor",
+    "descricao": "Adquira Todas as Armas Raras.",
+    "detalhes": ""
+  },
+  {
+    "nome": "The Dark Soul",
+    "descricao": "Todas as conquistas concluídas. Parabéns!",
+    "detalhes": ""
+  }
+]
+
+  

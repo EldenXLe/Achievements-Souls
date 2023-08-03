@@ -10,7 +10,7 @@ function exibirConquistas() {
             data.forEach(conquista => {
                 const divConquista = document.createElement("div");
 
-                // Adicione a classe "ds_conquista" à div de conquista criada
+                // Adiciona a classe "ds_conquista" à div de conquista criada
                 divConquista.classList.add("ds_conquista");
                 divConquista.innerHTML = `
                     <h3 class="ds_nconq">${conquista.nome}</h3>
@@ -20,7 +20,7 @@ function exibirConquistas() {
 
                 divConquistas.appendChild(divConquista);
 
-                // Adicione a div de separação após a div de conquista criada
+                // Adiciona a div de separação após a div de conquista criada
                 const divDivisoria = document.createElement("div");
                 divDivisoria.classList.add("ds_divisoria");
                 divConquistas.appendChild(divDivisoria);
